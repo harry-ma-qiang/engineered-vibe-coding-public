@@ -6,6 +6,19 @@ of generated code. "Vibe coding" means letting an AI write the code from a
 loose description; EVC keeps that speed but adds the discipline of a real
 engineering team.
 
+## Goal
+
+Bring the chaos of vibe coding back under control, while keeping an agile
+pace: let AI-written code reach the highest levels of classic software
+engineering standards. These are targets, not certifications:
+
+- **CMMI level 5**: a defined, measured process that improves itself from data.
+- **ISO/IEC/IEEE 29148**: complete, testable, traceable requirements.
+- **ISO/IEC/IEEE 12207**: a full software life cycle, from design to retrospective.
+- **ISO/IEC 25010**: product quality, starting with maintainability.
+- **DO-178C style**: every requirement traced to code and tests, verified by
+  someone other than its author.
+
 ## How it is designed
 
 - **Requirements first, each traced to its source.** Every requirement quotes
